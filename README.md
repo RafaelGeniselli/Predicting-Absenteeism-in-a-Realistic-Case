@@ -17,6 +17,7 @@ The aim of the project was divided into 4 sections:
     TabluePublic graphics with the analysis with most important features observed in our case (Age vs Probability / Reasons vs Probability / Transportation Expenses + Children vs Probability)
 * Data:
     - Absenteeism_module - Contains all the coding used in this process.
+    - Absenteeism_data - Contains the dataset used.
  
 ##  *Software and Libraries*
 * This project uses Python 3.7.2 and the following libraries:
