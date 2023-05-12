@@ -2,7 +2,7 @@
 
 #This Business Case creates a Machine Learning algorythm that can predict the Excessive Absenteeism probability of each worker based in a series of variables and a previos collected dataset information. This is a study case of my degree in the Complete Data Science Bootcamp 2023 (https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/).
 ## *Introduction*
-The goal of this project is to apply the data science and statistical skills learned in the course to predict the absenteeism probability of workers to have excessive absence hours(more than 3) taking in consideration a serios of features (Various diseases, Poisoning, Pregnancy, Distance From Work, Pets, Children). in a real business case 
+The goal of this project is to apply the data science and statistical skills learned in the course to predict the absenteeism probability of workers to have excessive absence hours(more than 3) taking in consideration a serios of features (Various diseases, Poisoning, Pregnancy, Distance From Work, Pets, Children).
 
 The aim of the project was divided into 4 sections:
 
@@ -16,8 +16,9 @@ The aim of the project was divided into 4 sections:
     Jupyter notebook with all data analyses, preparations and modeling tests.
     TabluePublic graphics with the analysis with most important features observed in our case (Age vs Probability / Reasons vs Probability / Transportation Expenses + Children vs Probability)
 * Data:
-    - Absenteeism_module - Contains all the coding used in this process.
-    - Absenteeism_data - Contains the dataset used.
+    - Absenteeism_module - Contains all the coding used.
+    - Absenteeism_data - Contains the  first dataset used.
+    - Absenteeism_LogisticRegression - Contains the jupyter notebook used.
  
 ##  *Software and Libraries*
 * This project uses Python 3.7.2 and the following libraries:
